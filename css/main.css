@@ -219,7 +219,7 @@ section {
   line-height: 1;
   font-style: italic;
 }
-.full-banner-siderbar h4:after {
+.full-banner-sidebar h4:after {
   content: "";
   width: 100px;
   height: 1px;
