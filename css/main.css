@@ -199,7 +199,7 @@ section {
   z-index: 1;
 }
 .full-banner-image {
-  flex-grow: 0 0 58.3333338%;
+  flex: 0 0 58.3333338%;
   background-image: url('../image/vista.jpg');
   background-size: cover;
   background-position: top center;
