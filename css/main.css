@@ -251,7 +251,7 @@ footer {
   min-height: 330px;
   background-color: #000000;
 }
-footer:afer {
+footer:after {
   content: "";
   background-color: #a0a0a0;
   width: 75%;
@@ -281,4 +281,24 @@ footer a {
   }
 footer a:hover{
   text-decoration: underline;
+}
+.social ul li {
+  display: inline-block;
+}
+.social ul li a {
+  display: block;
+  background-size: 23px 23px;
+  background-position: center;
+}
+.twitter{
+  background-image: url('../img/twitter.svg');
+}
+.facebook {
+  background-image: url('../img/facebook.svg');
+}
+.instagram {
+  background-image: url('../img/instagram.svg');
+}
+.pinterest {
+  background-image: url('../img/pinterest.svg');
 }
